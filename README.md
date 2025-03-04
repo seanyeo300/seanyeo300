@@ -7,11 +7,9 @@
 - <b>DCASE Challenge 2024 Task 1</b>
   - [Teacher-Focused Student Training](https://github.com/seanyeo300)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 📫 Connect with me:</h2>
 
-[<img align="left" alt="SeanYeo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/yeojinjiesean
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeojinjiesean)
 
 <!--
 Here are some ideas to get you started:
