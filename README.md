@@ -5,7 +5,7 @@
 - <b>Incorporating External Datasets into Pre-trained Models </b>
   - [Slow Learner with Incremental Transfer Learning](https://github.com/seanyeo300/Slow-Learner-with-Incremental-Transfer-Learning)
 - <b>DCASE Challenge 2024 Task 1</b>
-  - [Teacher-Focused Student Training](https://github.com/seanyeo300)
+  - [Teacher-Focused Student Training](https://github.com/seanyeo300/FocusNet_ASC)
 
 <h2> 📫 Connect with me:</h2>
 
