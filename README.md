@@ -6,7 +6,9 @@
   - [Slow Learner with Incremental Transfer Learning](https://github.com/seanyeo300/Slow-Learner-with-Incremental-Transfer-Learning)
 - <b>DCASE Challenge 2024 Task 1</b>
   - [Teacher-Focused Student Training](https://github.com/seanyeo300/FocusNet_ASC)
-
+- <b>Knowledge Distillation Ensemble Demo</b>
+  - [Ensemble-KD](https://github.com/seanyeo300/Ensemble-KD-Demo)
+    
 <h2> 📫 Connect with me:</h2>
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeojinjiesean)
