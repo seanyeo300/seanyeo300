@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Deep Learning Projects:</h2>
 
-- <b>Knowledge Distillation Ensemble Demo</b>
+- <b>Ensemble Knowledge Distillation Demo</b>
   - [Ensemble-KD](https://github.com/seanyeo300/Ensemble-KD-Demo)
 - <b>Incorporating External Datasets into Pre-trained Models </b>
   - [Slow Learner with Incremental Transfer Learning](https://github.com/seanyeo300/Slow-Learner-with-Incremental-Transfer-Learning)
