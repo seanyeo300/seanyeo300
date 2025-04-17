@@ -2,12 +2,13 @@
 
 <h2>👨‍💻 Deep Learning Projects:</h2>
 
+- <b>Knowledge Distillation Ensemble Demo</b>
+  - [Ensemble-KD](https://github.com/seanyeo300/Ensemble-KD-Demo)
 - <b>Incorporating External Datasets into Pre-trained Models </b>
   - [Slow Learner with Incremental Transfer Learning](https://github.com/seanyeo300/Slow-Learner-with-Incremental-Transfer-Learning)
 - <b>DCASE Challenge 2024 Task 1</b>
   - [Teacher-Focused Student Training](https://github.com/seanyeo300/FocusNet_ASC)
-- <b>Knowledge Distillation Ensemble Demo</b>
-  - [Ensemble-KD](https://github.com/seanyeo300/Ensemble-KD-Demo)
+
     
 <h2> 📫 Connect with me:</h2>
 
