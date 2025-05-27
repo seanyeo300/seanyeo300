@@ -9,7 +9,9 @@
 - <b>DCASE Challenge 2024 Task 1</b>
   - [Teacher-Focused Student Training](https://github.com/seanyeo300/FocusNet_ASC)
 
-    
+<h2>🔭 I’m currently working on </h2>
+- <b>Large Language Model Fine-Tuning </b>
+  - 🐐 Llama 3 8B using unsloth
 <h2> 📫 Connect with me:</h2>
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeojinjiesean)
