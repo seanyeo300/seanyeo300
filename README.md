@@ -12,7 +12,7 @@
 <h2>🔭 I’m currently working on </h2>
 
 - <b>Large Language Model Fine-Tuning </b>
-  - 🐐 [Llama 3 8B using unsloth](https://github.com/seanyeo300/Fine-tuning-Llama-3-using-Unsloth)
+  - 🐐 [Llama 3 using unsloth](https://github.com/seanyeo300/Fine-tuning-Llama-3-using-Unsloth)
 <h2> 📫 Connect with me:</h2>
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeojinjiesean)
