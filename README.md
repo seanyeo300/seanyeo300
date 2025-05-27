@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sean! <br/><a href="https://github.com/seanyeo300">Deep Learning Engineer</a> and aspiring Data Scientist</a>
+<h1>Hi, I'm Sean! Deep Learning Engineer and Aspiring Data Scientist</a>
 
 <h2>👨‍💻 Deep Learning Projects:</h2>
 
