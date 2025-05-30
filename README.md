@@ -8,6 +8,8 @@
   - [Slow Learner with Incremental Transfer Learning](https://github.com/seanyeo300/Slow-Learner-with-Incremental-Transfer-Learning)
 - <b>DCASE Challenge 2024 Task 1</b>
   - [Teacher-Focused Student Training](https://github.com/seanyeo300/FocusNet_ASC)
+- <b>Coursework Projects</b>
+  - [Human Action Recognition in the Dark](https://github.com/seanyeo300/Human-Action-Recognition-in-the-Dark)
 
 <h2>🔭 I’m currently working on </h2>
 
